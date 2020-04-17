@@ -1,12 +1,12 @@
 ># resources-pgm
-Resources about Probabilistic Graphical Models
+Resources on Probabilistic Graphical Models
 
 ## Contents
   * [Books](#books)
   * [Papers](#papers)
-    * [Gaussian graphical models](#ggm)
-    * [Mixed graphical models](#mgm)
-  * [R packages](#packages)
+    * [Gaussian graphical models](#gaussian-graphical-models)
+    * [Mixed graphical models](#mixed-graphical-models)
+  * [R packages](#r-packages)
   
 ## Books
   - [**Probabilistic Graphical Models**](https://mitpress.mit.edu/books/probabilistic-graphical-models), *D. Koller and N. Friedman, 2009*
@@ -22,7 +22,7 @@ Resources about Probabilistic Graphical Models
   - 
   
 ### Mixed graphical models
-  - [**Anomaly Detection and Localisation using Mixed Graphical Models**](https://arxiv.org/abs/1607.05974), *R. Laby and al, 2016*, [``]
+  - [**Anomaly Detection and Localisation using Mixed Graphical Models**](https://arxiv.org/abs/1607.05974), *R. Laby and al, 2016*
   - 
   
 
