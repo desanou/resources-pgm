@@ -34,4 +34,4 @@ Resources on Probabilistic Graphical Models
   - [**simone**](https://cran.r-project.org/package=simone), [`Inference`]
   - [**QUIC**](https://cran.r-project.org/package=QUIC), [`Inference`]
   - [**huge**](https://cran.r-project.org/package=huge), [`Inference`]
-  - [**stabs**](https://cran.r-project.org/package=stabs), [`Inference`]
+  - [**stabs**](https://cran.r-project.org/package=stabs), [`Inference, stability selection`]
