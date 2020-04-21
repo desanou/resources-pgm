@@ -32,4 +32,6 @@ Resources on Probabilistic Graphical Models
   - [**networkD3**](https://cran.r-project.org/package=ggraph), [`visualization with javascript`]
   - [**glasso**](https://cran.r-project.org/package=glasso), [`Inference`]
   - [**simone**](https://cran.r-project.org/package=simone), [`Inference`]
-  - 
+  - [**QUIC**](https://cran.r-project.org/package=QUIC), [`Inference`]
+  - [**huge**](https://cran.r-project.org/package=huge), [`Inference`]
+  - [**stabs**](https://cran.r-project.org/package=stabs), [`Inference`]
