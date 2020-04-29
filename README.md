@@ -19,7 +19,7 @@ Resources on Probabilistic Graphical Models
   - [**Getting Started in Probabilistic Graphical Models**](https://arxiv.org/abs/math/0608017), *E. M. Airoldi, 2007*
   - [**High-dimensional graphs and variable selection with the Lasso**](https://arxiv.org/abs/math/0608017), *N. Meinshausen and P. Buhlmann, 2006*, [`Neighborhood selection`]
   - [**Sparse inverse covariance estimation with the graphical Lasso**](https://arxiv.org/abs/0708.3517), *J. Friedman and al., 2008*, [`coordinate descent algorithm`]
-  - [**Exact Covariance Thresholding into Connected Components for Large-Scale Graphical Lasso**](https://arxiv.org/abs/1108.3829), *R. Mazumder and T. Hastie, 2011* [block diagonal screening rule`]
+  - [**Exact Covariance Thresholding into Connected Components for Large-Scale Graphical Lasso**](https://arxiv.org/abs/1108.3829), *R. Mazumder and T. Hastie, 2011* [`block diagonal screening rule`]
   
 ### Mixed graphical models
   - [**Anomaly Detection and Localisation using Mixed Graphical Models**](https://arxiv.org/abs/1607.05974), *R. Laby and al, 2016*
