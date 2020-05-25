@@ -16,10 +16,11 @@ Resources on Probabilistic Graphical Models
 ## Papers
 
 ### Gaussian graphical models
-  - [**Getting Started in Probabilistic Graphical Models**](https://arxiv.org/abs/math/0608017), *E. M. Airoldi, 2007*
+  - [**Getting started in probabilistic graphical models**](https://arxiv.org/abs/math/0608017), *E. M. Airoldi, 2007*
   - [**High-dimensional graphs and variable selection with the Lasso**](https://arxiv.org/abs/math/0608017), *N. Meinshausen and P. Buhlmann, 2006*, [`Neighborhood selection`]
   - [**Sparse inverse covariance estimation with the graphical Lasso**](https://arxiv.org/abs/0708.3517), *J. Friedman and al., 2008*, [`coordinate descent algorithm`]
-  - [**Exact Covariance Thresholding into Connected Components for Large-Scale Graphical Lasso**](https://arxiv.org/abs/1108.3829), *R. Mazumder and T. Hastie, 2011* [`block diagonal screening rule`]
+  - [**Exact covariance thresholding into connected Components for large-scale graphical Lasso**](https://arxiv.org/abs/1108.3829), *R. Mazumder and T. Hastie, 2011* [`block diagonal screening rule`]
+  - [**The cluster graphical Lasso for improved estimation of gaussian graphical models**](https://arxiv.org/abs/1307.5339), *K. M. Tan and al., 2013*, [`hierarchical clustering and glasso on blocks`]
   
 ### Mixed graphical models
   - [**Anomaly Detection and Localisation using Mixed Graphical Models**](https://arxiv.org/abs/1607.05974), *R. Laby and al, 2016*
