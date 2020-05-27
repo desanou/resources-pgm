@@ -36,3 +36,4 @@ Resources on Probabilistic Graphical Models
   - [**QUIC**](https://cran.r-project.org/package=QUIC), [`Inference`]
   - [**huge**](https://cran.r-project.org/package=huge), [`Inference`]
   - [**stabs**](https://cran.r-project.org/package=stabs), [`Inference, stability selection`]
+The [CRAN Task View: gRaphical Models in R](https://cran.r-project.org/web/views/gR.html) also lists a good number of packages on R linked to graphical models.
