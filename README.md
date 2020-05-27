@@ -20,7 +20,7 @@ Resources on Probabilistic Graphical Models
   - [**High-dimensional graphs and variable selection with the Lasso**](https://arxiv.org/abs/math/0608017), *N. Meinshausen and P. Buhlmann, 2006*, [`Neighborhood selection`]
   - [**Sparse inverse covariance estimation with the graphical Lasso**](https://arxiv.org/abs/0708.3517), *J. Friedman and al., 2008*, [`coordinate descent algorithm`]
   - [**Exact covariance thresholding into connected Components for large-scale graphical Lasso**](https://arxiv.org/abs/1108.3829), *R. Mazumder and T. Hastie, 2011* [`block diagonal screening rule`]
-  - [**The cluster graphical Lasso for improved estimation of gaussian graphical models**](https://arxiv.org/abs/1307.5339), *K. M. Tan and al., 2013*, [`hierarchical clustering and glasso on blocks`]
+  - [**The cluster graphical Lasso for improved estimation of gaussian graphical models**](https://arxiv.org/abs/1307.5339), *K. M. Tan and al., 2013*, [`The connected components returned by Graphical Lasso with regularization parameter $\lambda$ are the same that the clusters obtained through Single Linkage hierarchical clustering on empirical covariance with dendrogram cut at level $\lambda$.`]
   
 ### Mixed graphical models
   - [**Anomaly Detection and Localisation using Mixed Graphical Models**](https://arxiv.org/abs/1607.05974), *R. Laby and al, 2016*
