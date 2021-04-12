@@ -10,7 +10,7 @@ Resources on Probabilistic Graphical Models
     * [Mixed graphical models](#mixed-graphical-models)
   * [R packages](#r-packages)
     * [Inference](#inference)
-  * [Optimization](#optim)
+  * [Optimization](#optimization)
   * [Variable selection](#variable-selection)
   
 ## Books
@@ -24,9 +24,10 @@ Resources on Probabilistic Graphical Models
 ### Gaussian graphical models
 
 #### Review
-  - [**Getting Started in Probabilistic Graphical Models**](https://arxiv.org/abs/math/0608017), *E. M. Airoldi, 2007*
+  - **Structure Learning in Graphical Modeling**, *Drton and Maathuis 2017*
+  - [**Estimation of covariance and precision matrix, network structure and a view towards systems biology**](https://doi.wiley.com/10.1002/wics.1415), *M. Kuismin, M. Sillanpää 2017*, [`Review of methods and their associated R packages`]
   - [**An Overview on the Estimation of Large Covariance and Precision Matrices**](https://arxiv.org/abs/1504.02995), *J. Fan, Y. Liao, H. Liu; 2015*, [`Review of covariance and precision matrices estimation`]
-  - [**Estimation of covariance and precision matrix, network structure and a view towards systems biology**](https://doi.wiley.com/10.1002/wics.1415), *M. Kuismin, M. Sillanpää*, [`Review of methods and their associated R packages`]
+  - [**Getting Started in Probabilistic Graphical Models**](https://arxiv.org/abs/math/0608017), *E. M. Airoldi, 2007*
 
 #### Inference
 
@@ -41,10 +42,10 @@ Resources on Probabilistic Graphical Models
 
 
 ### Fused graphical models
-- [**Estimation of sparse Gaussian graphical models with hidden clustering structure**], *Lin et al. 2020* (preprint)
--[**Clustered Gaussian Graphical Model via Symmetric Convex clustering**], *Yao and Allen, 2019*
-- [**The joint graphical lasso for inverse covariance estimation across multiple classes**], *Danaher et al., 2014*
-- [**Local Neighborhood Fusion in Locally Constant Gaussian Graphical Models**], *Ganguly et al. 2014* (preprint)
+  - [**Estimation of sparse Gaussian graphical models with hidden clustering structure**], *Lin et al. 2020* (preprint)
+  - [**Clustered Gaussian Graphical Model via Symmetric Convex clustering**], *Yao and Allen, 2019*
+  - [**The joint graphical lasso for inverse covariance estimation across multiple classes**], *Danaher et al., 2014*
+  - [**Local Neighborhood Fusion in Locally Constant Gaussian Graphical Models**], *Ganguly et al. 2014* (preprint)
 
   
 ##### Tricks
